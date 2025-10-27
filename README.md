@@ -74,5 +74,5 @@ Traduzione italiana rilasciata come **progetto fan-made** senza scopo di lucro.
 ---
 
 **Versione:** 1.0  
-**Autore:** [Lelendoo](https://github.com/Lelendoo)  
+**Autore:** [Lelendoo](https://github.com/lele344)  
 **Ultimo aggiornamento:** ottobre 2025
