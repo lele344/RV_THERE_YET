@@ -50,7 +50,7 @@ Ride/
 
 ## ✍️ Crediti
 
-- **Traduzione italiana:** [Lelendoo](https://github.com/Lelendoo)  
+- **Traduzione italiana:** [Lelendoo](https://github.com/lele344)  
 - **Strumenti e automazione:** Python + UnrealLocres + SafeToolkit  
 - **Gioco originale:** *RV There Yet?* — © Cabo Studio
 
